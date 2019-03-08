@@ -1,0 +1,23 @@
+nav{
+font-size: 20px;
+}
+.navbar-brand img{
+height: 58px;
+}
+body{
+    background-color:#9C3;
+}
+#menulateral {
+    padding: 0px;  
+    background-color:red;
+    max-width: 20%;
+}
+#menulateral h1 {
+    text-align: center;
+    margin : 10px 0px;
+    font-size: 25px;
+}
+.box {
+    border: 1px red dotted;
+}
+
